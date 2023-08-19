@@ -1,6 +1,6 @@
 module github.com/pattern-hunter/rel
 
-go 1.20
+go 1.21
 
 require (
 	github.com/jinzhu/inflection v1.0.0
