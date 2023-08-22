@@ -1,4 +1,4 @@
-module github.com/go-rel/rel
+module github.com/pattern-hunter/rel
 
 require (
 	github.com/jinzhu/inflection v1.0.0
